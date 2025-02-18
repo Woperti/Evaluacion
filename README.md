@@ -1,7 +1,7 @@
 # Evaluaciones
 
-- [Física II](#fisica-II)
-- [Física VI](#fisica-VI)
+- [Física II - La Energia y su interaccion con la materia](#fisica-II)
+- [Física VI - Ciencia y Tecnologia II](#fisica-VI)
 
 <a name="tics-I"></a>
 ## TICS I - Cultura Digital 1
