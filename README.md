@@ -17,17 +17,22 @@
 <a name="fisica-II"></a>
 ## Fisica II - La energia y conservacion de la materia
 
-### Evaluacion Corte 1
+### Evaluacion Corte 1 - La transferencia de energia (20 hrs)
 
-### Evaluacion Corte 2
+### Evaluacion Corte 2 - Introduccion a la termodinamica (22 hrs)
 
-### Evaluacion Corte 3
+### Evaluacion Corte 3 - Introduccion a los procesos termodinamicos (22 horas)
+
+Recursos:
+
 
 <a name="fisica-VI"></a>
 ## Fisica VI - Ciencia y Tecnologia II
 
-### Evaluacion Corte 1
+### Evaluacion Corte 1 - Introduccion a la mecatronica
 
-### Evaluacion Corte 2
+### Evaluacion Corte 2 - Elementos basicos de la robotica
 
-### Evaluacion Corte 3
+### Evaluacion Corte 3 - Conceptos de micro y nano tecnologia
+
+Recursos
