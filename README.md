@@ -14,7 +14,7 @@
 <a name="tics-III"></a>
 ## TICS III - Cultura Digital 3
 <a name="tics-IV"></a>
-## TICS IV - Bases de datos
+## Bases de datos
 <a name="programacion-java"></a>
 ## Programacion en Java 
 
