@@ -68,7 +68,8 @@ Recursos:
   20% Examen
   80% Actividades
     20% Tareas
-    20% 
+    30% Cuaderno, actividades
+   Proeycto: 30%
 
 Tareas: En el cuaderno, a menos que se especifique.
 1. Crear una cuenta de Trello, Github y LucidChart
@@ -86,3 +87,5 @@ Tareas: En el cuaderno, a menos que se especifique.
   80% Proyecto
   
 Recursos
+
+Punto extra: 1 x parcial (película, serie o libro relacionado a la materia)
