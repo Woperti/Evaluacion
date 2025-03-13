@@ -66,7 +66,7 @@ Recursos:
 
 ### Evaluacion Corte 1 - Introduccion a la mecatronica
   - 20% Examen
-  - 80% Actividades
+  - 80% Actividades: 
   - 20% Tareas
   - 30% Cuaderno, actividades
   - Proyecto: 30%
