@@ -65,11 +65,11 @@ Recursos:
 ## Fisica VI - Ciencia y Tecnologia II
 
 ### Evaluacion Corte 1 - Introduccion a la mecatronica
-  20% Examen
-  80% Actividades
-    20% Tareas
-    30% Cuaderno, actividades
-   Proeycto: 30%
+  - 20% Examen
+  - 80% Actividades
+  - 20% Tareas
+  - 30% Cuaderno, actividades
+  - Proyecto: 30%
 
 Tareas: En el cuaderno, a menos que se especifique.
 1. Crear una cuenta de Trello, Github y LucidChart
